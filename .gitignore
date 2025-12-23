@@ -163,4 +163,11 @@ cython_debug/
 
 .DS_STORE
 *.pt
+*.ptl
+*.pte
+*.onnx
 .aider*
+
+# Model export directories
+output/
+checkpoints/
